@@ -1,2 +1,15 @@
-# golang-kafka-eda
-An example implementation of Event-Driven Architecture (EDA) using Golang and Kafka, showcasing producers, consumers, and event-based microservices.
+🚀 Features
+
+Event-driven microservices using Golang
+
+Apache Kafka for asynchronous messaging
+
+Producer & consumer patterns
+
+Loose coupling between services
+
+Scalable and fault-tolerant architecture
+
+Clean project structure following Go best practices
+
+Ready for local development with Docker
